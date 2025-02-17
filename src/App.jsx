@@ -1,4 +1,4 @@
-import { Productrender } from "../Render/renderfile"
+import { Productrender } from "../public/Render/renderfile"
 export const App = () => {
   return(
     <>
